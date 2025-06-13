@@ -1,0 +1,240 @@
+,Cause,Effect
+0,audio_Clock,audio_Train horn
+1,audio_Clock,audio_Bark
+2,audio_Clock,audio_Bus
+3,audio_Clock,audio_Toilet flush
+4,audio_Clock,audio_Acoustic guitar
+5,audio_Clock,audio_Chainsaw
+6,audio_Horse,audio_Clock
+7,audio_Clock,audio_Infant cry
+8,visual_Clock,audio_Clock
+9,visual_Train horn,audio_Clock
+10,visual_Bus,audio_Clock
+11,audio_Clock,visual_Rodents/rats
+12,audio_Clock,visual_Acoustic guitar
+13,audio_Motorcycle,audio_Train horn
+14,audio_Motorcycle,audio_Bark
+15,audio_Motorcycle,audio_Bus
+16,audio_Rodents/rats,audio_Motorcycle
+17,audio_Motorcycle,audio_Toilet flush
+18,audio_Motorcycle,audio_Acoustic guitar
+19,audio_Motorcycle,audio_Frying (food)
+20,audio_Motorcycle,audio_Infant cry
+21,audio_Motorcycle,visual_Motorcycle
+22,visual_Bark,audio_Motorcycle
+23,audio_Motorcycle,visual_Rodents/rats
+24,audio_Motorcycle,visual_Acoustic guitar
+25,audio_Motorcycle,visual_Frying (food)
+26,audio_Motorcycle,visual_Helicopter
+27,visual_Truck,audio_Motorcycle
+28,audio_Bark,audio_Train horn
+29,audio_Train horn,audio_Bus
+30,audio_Rodents/rats,audio_Train horn
+31,audio_Toilet flush,audio_Train horn
+32,audio_Train horn,audio_Acoustic guitar
+33,audio_Train horn,audio_Chainsaw
+34,audio_Helicopter,audio_Train horn
+35,audio_Train horn,audio_Infant cry
+36,audio_Truck,audio_Train horn
+37,visual_Clock,audio_Train horn
+38,visual_Motorcycle,audio_Train horn
+39,visual_Train horn,audio_Train horn
+40,visual_Bark,audio_Train horn
+41,audio_Train horn,visual_Acoustic guitar
+42,visual_Helicopter,audio_Train horn
+43,visual_Truck,audio_Train horn
+44,audio_Bark,audio_Bus
+45,audio_Bark,audio_Toilet flush
+46,audio_Bark,audio_Acoustic guitar
+47,audio_Bark,audio_Chainsaw
+48,audio_Bark,audio_Helicopter
+49,audio_Bark,audio_Infant cry
+50,visual_Clock,audio_Bark
+51,visual_Motorcycle,audio_Bark
+52,visual_Bark,audio_Bark
+53,audio_Bark,visual_Rodents/rats
+54,audio_Bark,visual_Toilet flush
+55,audio_Bark,visual_Acoustic guitar
+56,audio_Cat,audio_Bus
+57,audio_Cat,audio_Acoustic guitar
+58,audio_Cat,visual_Cat
+59,audio_Cat,visual_Rodents/rats
+60,audio_Cat,visual_Acoustic guitar
+61,audio_Cat,visual_Horse
+62,audio_Rodents/rats,audio_Bus
+63,audio_Toilet flush,audio_Bus
+64,audio_Acoustic guitar,audio_Bus
+65,audio_Frying (food),audio_Bus
+66,audio_Chainsaw,audio_Bus
+67,audio_Horse,audio_Bus
+68,audio_Helicopter,audio_Bus
+69,audio_Infant cry,audio_Bus
+70,audio_Truck,audio_Bus
+71,visual_Clock,audio_Bus
+72,visual_Bus,audio_Bus
+73,audio_Bus,visual_Toilet flush
+74,visual_Frying (food),audio_Bus
+75,audio_Bus,visual_Horse
+76,visual_Infant cry,audio_Bus
+77,audio_Rodents/rats,audio_Toilet flush
+78,audio_Rodents/rats,audio_Acoustic guitar
+79,audio_Rodents/rats,audio_Frying (food)
+80,audio_Rodents/rats,audio_Chainsaw
+81,audio_Rodents/rats,audio_Horse
+82,audio_Rodents/rats,audio_Infant cry
+83,audio_Rodents/rats,visual_Train horn
+84,audio_Rodents/rats,visual_Bus
+85,audio_Rodents/rats,visual_Rodents/rats
+86,audio_Rodents/rats,visual_Acoustic guitar
+87,audio_Rodents/rats,visual_Helicopter
+88,audio_Toilet flush,audio_Acoustic guitar
+89,audio_Frying (food),audio_Toilet flush
+90,audio_Toilet flush,audio_Chainsaw
+91,audio_Horse,audio_Toilet flush
+92,audio_Helicopter,audio_Toilet flush
+93,audio_Toilet flush,audio_Infant cry
+94,audio_Truck,audio_Toilet flush
+95,visual_Train horn,audio_Toilet flush
+96,visual_Cat,audio_Toilet flush
+97,visual_Bus,audio_Toilet flush
+98,audio_Toilet flush,visual_Rodents/rats
+99,audio_Toilet flush,visual_Toilet flush
+100,audio_Toilet flush,visual_Acoustic guitar
+101,audio_Toilet flush,visual_Horse
+102,audio_Toilet flush,visual_Infant cry
+103,audio_Frying (food),audio_Acoustic guitar
+104,audio_Chainsaw,audio_Acoustic guitar
+105,audio_Horse,audio_Acoustic guitar
+106,audio_Helicopter,audio_Acoustic guitar
+107,audio_Infant cry,audio_Acoustic guitar
+108,audio_Truck,audio_Acoustic guitar
+109,visual_Train horn,audio_Acoustic guitar
+110,visual_Bus,audio_Acoustic guitar
+111,visual_Acoustic guitar,audio_Acoustic guitar
+112,audio_Acoustic guitar,visual_Infant cry
+113,audio_Frying (food),audio_Chainsaw
+114,audio_Frying (food),audio_Infant cry
+115,visual_Motorcycle,audio_Frying (food)
+116,audio_Frying (food),visual_Acoustic guitar
+117,visual_Frying (food),audio_Frying (food)
+118,audio_Frying (food),visual_Horse
+119,visual_Truck,audio_Frying (food)
+120,audio_Horse,audio_Chainsaw
+121,audio_Helicopter,audio_Chainsaw
+122,audio_Infant cry,audio_Chainsaw
+123,audio_Truck,audio_Chainsaw
+124,visual_Motorcycle,audio_Chainsaw
+125,visual_Cat,audio_Chainsaw
+126,visual_Bus,audio_Chainsaw
+127,audio_Chainsaw,visual_Toilet flush
+128,audio_Chainsaw,visual_Acoustic guitar
+129,visual_Frying (food),audio_Chainsaw
+130,audio_Chainsaw,visual_Chainsaw
+131,audio_Chainsaw,visual_Horse
+132,audio_Chainsaw,visual_Infant cry
+133,audio_Horse,audio_Infant cry
+134,audio_Horse,visual_Clock
+135,audio_Horse,visual_Motorcycle
+136,audio_Horse,visual_Acoustic guitar
+137,audio_Horse,visual_Horse
+138,audio_Horse,visual_Helicopter
+139,audio_Horse,visual_Infant cry
+140,audio_Helicopter,audio_Infant cry
+141,audio_Truck,audio_Helicopter
+142,visual_Bark,audio_Helicopter
+143,audio_Helicopter,visual_Acoustic guitar
+144,audio_Helicopter,visual_Chainsaw
+145,visual_Helicopter,audio_Helicopter
+146,visual_Truck,audio_Helicopter
+147,visual_Motorcycle,audio_Infant cry
+148,visual_Cat,audio_Infant cry
+149,visual_Bus,audio_Infant cry
+150,audio_Infant cry,visual_Rodents/rats
+151,audio_Infant cry,visual_Acoustic guitar
+152,audio_Infant cry,visual_Infant cry
+153,visual_Truck,audio_Infant cry
+154,audio_Truck,visual_Motorcycle
+155,audio_Truck,visual_Bus
+156,audio_Truck,visual_Acoustic guitar
+157,audio_Truck,visual_Frying (food)
+158,audio_Truck,visual_Helicopter
+159,audio_Truck,visual_Infant cry
+160,audio_Truck,visual_Truck
+161,visual_Clock,visual_Train horn
+162,visual_Bark,visual_Clock
+163,visual_Bus,visual_Clock
+164,visual_Clock,visual_Rodents/rats
+165,visual_Clock,visual_Toilet flush
+166,visual_Clock,visual_Acoustic guitar
+167,visual_Clock,visual_Chainsaw
+168,visual_Clock,visual_Horse
+169,visual_Clock,visual_Infant cry
+170,visual_Motorcycle,visual_Train horn
+171,visual_Motorcycle,visual_Toilet flush
+172,visual_Motorcycle,visual_Acoustic guitar
+173,visual_Motorcycle,visual_Frying (food)
+174,visual_Motorcycle,visual_Chainsaw
+175,visual_Motorcycle,visual_Horse
+176,visual_Motorcycle,visual_Helicopter
+177,visual_Motorcycle,visual_Infant cry
+178,visual_Cat,visual_Train horn
+179,visual_Bus,visual_Train horn
+180,visual_Train horn,visual_Toilet flush
+181,visual_Train horn,visual_Acoustic guitar
+182,visual_Frying (food),visual_Train horn
+183,visual_Train horn,visual_Chainsaw
+184,visual_Train horn,visual_Horse
+185,visual_Train horn,visual_Helicopter
+186,visual_Train horn,visual_Infant cry
+187,visual_Cat,visual_Bark
+188,visual_Bark,visual_Rodents/rats
+189,visual_Bark,visual_Toilet flush
+190,visual_Bark,visual_Acoustic guitar
+191,visual_Bark,visual_Frying (food)
+192,visual_Bark,visual_Chainsaw
+193,visual_Bark,visual_Horse
+194,visual_Bark,visual_Helicopter
+195,visual_Bark,visual_Infant cry
+196,visual_Truck,visual_Bark
+197,visual_Cat,visual_Bus
+198,visual_Cat,visual_Rodents/rats
+199,visual_Cat,visual_Toilet flush
+200,visual_Cat,visual_Acoustic guitar
+201,visual_Cat,visual_Chainsaw
+202,visual_Cat,visual_Infant cry
+203,visual_Bus,visual_Toilet flush
+204,visual_Bus,visual_Acoustic guitar
+205,visual_Bus,visual_Chainsaw
+206,visual_Bus,visual_Helicopter
+207,visual_Bus,visual_Infant cry
+208,visual_Rodents/rats,visual_Toilet flush
+209,visual_Rodents/rats,visual_Acoustic guitar
+210,visual_Rodents/rats,visual_Chainsaw
+211,visual_Rodents/rats,visual_Horse
+212,visual_Rodents/rats,visual_Infant cry
+213,visual_Truck,visual_Rodents/rats
+214,visual_Acoustic guitar,visual_Toilet flush
+215,visual_Frying (food),visual_Toilet flush
+216,visual_Toilet flush,visual_Chainsaw
+217,visual_Horse,visual_Toilet flush
+218,visual_Helicopter,visual_Toilet flush
+219,visual_Infant cry,visual_Toilet flush
+220,visual_Truck,visual_Toilet flush
+221,visual_Frying (food),visual_Acoustic guitar
+222,visual_Acoustic guitar,visual_Chainsaw
+223,visual_Acoustic guitar,visual_Horse
+224,visual_Helicopter,visual_Acoustic guitar
+225,visual_Truck,visual_Acoustic guitar
+226,visual_Frying (food),visual_Chainsaw
+227,visual_Frying (food),visual_Horse
+228,visual_Frying (food),visual_Helicopter
+229,visual_Frying (food),visual_Infant cry
+230,visual_Horse,visual_Chainsaw
+231,visual_Helicopter,visual_Chainsaw
+232,visual_Infant cry,visual_Chainsaw
+233,visual_Truck,visual_Chainsaw
+234,visual_Helicopter,visual_Horse
+235,visual_Infant cry,visual_Horse
+236,visual_Truck,visual_Horse
+237,visual_Helicopter,visual_Infant cry
+238,visual_Truck,visual_Infant cry
