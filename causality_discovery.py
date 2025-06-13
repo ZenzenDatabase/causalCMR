@@ -13,8 +13,8 @@ import torch
 import pickle
 
 az = np.load("embeddings/prediction_500.npz")
-audio_data  = az["audio"][-1564:]
-visual_data = az["visual"][-1564:]
+audio_data  = az["audio"]
+visual_data = az["visual"]
  
 class_list = ['Clock', 'Motorcycle', 'Train horn', 'Bark', 'Cat', 'Bus', \
               'Rodents/rats', 'Toilet flush', 'Acoustic guitar', \
